@@ -1,0 +1,4 @@
+Symbol: A probability : 0.5
+Symbol: C probability : 0.25
+Symbol: B probability : 0.25
+Compressed value :0.33203125
